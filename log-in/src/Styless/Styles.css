@@ -1,0 +1,162 @@
+.loginMainDev {
+    background-color: #000E09;
+    height: 100vh;
+}
+
+.topsection {
+    display: flex;
+    justify-content: center;
+    height: 50%;
+    align-items: center;
+}
+
+.LoginLogo {
+    width: 70px;
+    height: 70px;
+}
+
+.input {
+    width: 200px;
+    height: 42px;
+    border-radius: 30px;
+    background: #1F191966 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 3px 3px #FFFDFD40, 3px 3px 3px #4A494947;
+    mix-blend-mode: normal;
+    opacity: 1;
+    outline: none;
+    padding-left: 35px;
+    color: white;
+}
+
+.Loginbutton {
+    width: 238px;
+    height: 42px;
+    background: transparent linear-gradient(180deg, #00FF2580 0%, #000000 100%, #36A54680 100%) 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+    border: 2px solid #8CFF0026;
+    opacity: 1;
+    border-radius: 60px;
+}
+
+.forgotpassword {
+    color: #36A546;
+    letter-spacing: 0.02px;
+    font: normal normal normal 15px/20px Mulish;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.homeMainDev {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: space-between;
+    background-color: #000E09;
+}
+
+.bottomNavBar {
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    /* background: transparent linear-gradient(262deg, #0F2323 0%, #0F2323 40%) 0% 0% no-repeat padding-box; */
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    background-color: #00000040;
+}
+
+.homePageHeadingSection {
+    display: flex;
+    justify-content: center;
+}
+
+.HomeScreenIconSection {
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    align-items: end;
+}
+
+.homePageHeadingText {
+    background: #1A2C2C99 0% 0% no-repeat padding-box;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 15px;
+    font-size: 12px;
+}
+
+.productivitysection {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Bar {
+    color: #36A54680;
+    background: #36A54680;
+    border-radius: 10px;
+    margin: 0px;
+    height: 10px;
+    border: 1px solid #36A546;
+}
+
+.productivitysection {
+    margin: 2px 0px;
+}
+
+.productivitysection p {
+    margin: 0px;
+}
+
+.ULStyles {
+    color: white;
+    list-style: none;
+    padding: 15px;
+    margin: 0px 20px;
+    background: #5E5E5E82;
+    border-radius: 15px;
+}
+
+.ULStyles p {
+    font-size: 12px;
+}
+
+.Search {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    padding-left: 20px;
+    border: none;
+    background: black;
+    color: white;
+}
+
+.Searchsection {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.card {
+    background-color: #38383880;
+}
+
+.flex {
+    display: flex;
+}
+
+.margin {}
+
+.cardText {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 30px;
+}
+
+.cardText p{
+    margin: 0px;
+}
